@@ -14,9 +14,9 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
-H = (theta'*X')';
-S = sum((H - y) .^ 2);
-J = S / (2*m);
+H = (theta'*X')'; %Hypothesis
+S = sum((H - y) .^ 2); %Sum of squares of hypothesis and actual value
+J = S / (2*m); % J, the cost function
 
 
 % =========================================================================
