@@ -18,10 +18,12 @@ for iter = 1:num_iters
     %
 
 
-    h = X * theta;
-    stderr = h - y;
-    theta = theta - (alpha/m) * (stderr' * X)';
-    J_history(iter) = computeCost(X, y, theta);
+    h = X * theta; % Hypothesis
+    stderr = h - y; % Standard Error
+    theta = theta - (alpha/m) * (stderr' * X)'; % Theta (0 and 1)
+    J_history(iter) = computeCost(X, y, theta); % Gradient Descent 
+    
+    %Note while running the prohram in the octave please remove ';' so that the output is printed on the Octave console
 
     % ============================================================
 
@@ -29,5 +31,5 @@ for iter = 1:num_iters
     J_history(iter) = computeCost(X, y, theta);
 
 end
-	disp(min(J_history));
+	disp(min(J_history)); %Display Minimum gradient value or the best fit after computation 
 end
