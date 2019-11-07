@@ -17,7 +17,7 @@
 </ol>
 
 <b><u>Machine Learning Basics</u></b>
-<b>Course Duration: 2-3 Months</b>
+<b>Course Duration: 2-3 Months;</b>
 <b>Some of the free Python and ML basics</b>
 <ol>
   <li>https://www.edx.org/course/introduction-to-python-for-data-science-4</li>
