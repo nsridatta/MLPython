@@ -15,9 +15,10 @@
 <li>https://mml-book.github.io/book/mml-book.pdf</li>
 <li>https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599</li>
 </ol>
+
 <b><u>Machine Learning Basics</u></b>
-<b>Some of the free Python and ML basics</b>
 <b>Course Duration: 2-3 Months</b>
+<b>Some of the free Python and ML basics</b>
 <ol>
   <li>https://www.edx.org/course/introduction-to-python-for-data-science-4</li>
   <li>https://www.coursera.org/learn/python-for-applied-data-science-ai</li>
@@ -26,6 +27,7 @@
   <li>https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV</li>  
 </ol>
 <b>Note: Try to complete a mini project by the end of the above course</b> 
+
 <b><u>Deep Learning</u></b>
 <b>Course Duration: 1 Months</b>
 <ol>
